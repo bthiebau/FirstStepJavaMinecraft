@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "bastimod:items/tyrolium_pickaxe"
+  }
+}

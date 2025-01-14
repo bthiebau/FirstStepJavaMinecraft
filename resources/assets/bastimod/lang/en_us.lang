@@ -1,0 +1,13 @@
+item.tyrolium.name=Tyrolium
+item.reaper.name=Reaper
+item.tyrolium_sword.name=TyroSword
+item.tyrolium_pickaxe.name=TyroPickaxe
+item.tyrolium_helmet.name=TyroHelmet
+item.tyrolium_chestplate.name=TyroChestplate
+item.tyrolium_leggings.name=TyroLeggings
+item.tyrolium_boots.name=TyroBoots
+item.tyrolium_hoe.name=TyroHoe
+item.tyrolium_shovel.name=TyroShovel
+item.tyrolium_axe.name=TyroAxe
+
+tile.tyrolium_block.name=TyroBlock
